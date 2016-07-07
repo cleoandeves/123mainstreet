@@ -27,8 +27,13 @@ body {
 .galleryintro {
     text-align: center;
     vertical-align: bottom;
-    font-family: 'Montserrat', Arial, serif; 
+    font-family: 'Playfair Display', serif;
     font-weight: 400;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    
 }
 
 .brand {
